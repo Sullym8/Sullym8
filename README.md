@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there, I'm Samar 👋
 
+I'm a Computer Science Student at UMD, College Park. I have experience in Web Development and Android App Development and am always looking for ways to become a better Software Developer!
+
+Have a look at what I have worked on!
+
+## Contact Me
+- Email: skhan511@umd.edu
+- LinkedIn: https://www.linkedin.com/in/samarkhan1110/
 <!--
 **Sullym8/Sullym8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
