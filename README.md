@@ -2,7 +2,7 @@
 
 I'm a Computer Science Student at UMD, College Park. I have experience in Web Development and Android App Development and am always looking for ways to become a better Software Developer!
 
-Have a look at what I have worked on!
+Feel free to look at what I have worked on!
 
 ## Contact Me
 - Email: skhan511@umd.edu
