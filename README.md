@@ -2,7 +2,7 @@
 
 I'm a Computer Science Student at UMD, College Park. I have experience in Web Development and Android App Development and am always looking for ways to become a better Software Developer!
 
-I am currentlty developing [Glint](https://github.com/Sullym8/glint), Raytracer written in Rust!
+I am currentlty developing [Glint](https://github.com/Sullym8/glint), a Raytracer written in Rust!
 
 Feel free to look at what I have worked on!
 
